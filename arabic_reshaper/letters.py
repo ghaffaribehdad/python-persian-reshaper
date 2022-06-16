@@ -348,6 +348,10 @@ LETTERS_ARABIC_V2 = {
 LETTERS_KURDISH = {
     # ARABIC LETTER HAMZA
     '\u0621': ('\uFE80', '', '', ''),
+    # Arabic Hamza Above
+    '\u0654': ('\u0654', '', '', ''),
+    # Arabic Fatha (U+064E)
+    '\u064E': ('\u064E', '', '', ''),
     # ARABIC LETTER ALEF WITH MADDA ABOVE
     '\u0622': ('\u0622', '', '', '\uFE82'),
     # ARABIC LETTER ALEF WITH HAMZA ABOVE
